@@ -35,3 +35,7 @@
 
 </p>
 
+Repositórios 
+/academicos -> projetos academicos
+/pessoal -> projetos pessoais
+
