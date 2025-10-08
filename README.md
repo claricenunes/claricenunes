@@ -15,9 +15,6 @@
   <img align="center" alt="Clarice-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
   <h4 align="left">💬 Contatos</h4>
 
@@ -31,20 +28,11 @@
   </a>
 </div>
 
+<p> <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claricenunes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /> 
 
-<p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=claricenunes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-
-</p>
-
-Repositórios 
-/academicos -> projetos academicos
-/pessoal -> projetos pessoais
-
+<h4 align="left">Organização dos Repositórios</h4>
+</p> <p align="left"> <br>/academicos -> projetos academicos<br>/pessoal -> projetos pessoais</p>
