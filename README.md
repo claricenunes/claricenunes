@@ -39,8 +39,4 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-<h4>Meu site: <a href="https://euclaricenunes.wixsite.com/potfoliohub" target="_blank">https://euclaricenunes.wixsite.com/potfoliohub</a></h4>
-
-
-<h4 align="left">Organização dos Repositórios</h4>
-</p> <p align="left"> <br>/academicos -> projetos academicos<br>/pessoal -> projetos pessoais</p>
+<h4>Meu Portfólio: <a href="https://euclaricenunes.wixsite.com/potfoliohub" target="_blank">https://euclaricenunes.wixsite.com/potfoliohub</a></h4>
