@@ -1,8 +1,11 @@
+
+
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=F5EDE3&height=250&section=header&text=Clarice%20Nunes&fontSize=90&animation=fadeIn&fontColor=8B4513)
+![header](https://capsule-render.vercel.app/api?type=venom&height=350&color=F5EDE3&text=Clarice%20Nunes&reversal=false&textBg=false&fontColor=8B4513&fontSize=90&fontAlignY=50&desc=Software%20Engineering%20Student&descColor=555555&descAlignY=62)
 
 </div>
+
 
 <div align="center">
 
@@ -31,6 +34,6 @@ Software Engineering student passionate about solving real-world problems throug
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=claricenunes&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claricenunes&layout=compact&theme=tokyonight)
