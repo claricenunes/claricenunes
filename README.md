@@ -42,10 +42,6 @@
 <h2 align="center" class="heading-element" dir="auto">📊 GitHub Stats</h2>
 
 <div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=claricenunes&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claricenunes&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -55,5 +51,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/claricenunes/claricenunes/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
 
