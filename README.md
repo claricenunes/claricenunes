@@ -17,23 +17,43 @@
 
 ---
 
-# 🦥 About Me
+<h2 align="center" class="heading-element" dir="auto">🦥 About Me</h2>
 
-Software Engineering student passionate about solving real-world problems through technology.
+<div align="center">
+  
+**Software Engineering student** passionate about solving real-world problems through technology.
 
-🚀 Currently studying **Software Engineering**  
-💻 Interested in **Backend, APIs, AI and Software Architecture**
+💻 Currently, I am a Software Engineering **Intern at MIDR - the Ministry of Integration and Regional Development**, focusing on developing technological solutions using PHP and Laravel, with an emphasis on innovation and technical efficiency
 
----
-
-# 🛠 Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=java,python,php,laravel,js,html,css,git,github)
+</div>
 
 ---
 
-# 📊 GitHub Stats
+<h2 align="center" class="heading-element" dir="auto">🛠 Tech Stack</h2>
 
+<div align="center">
+  
+![My Skills](https://skillicons.dev/icons?i=python,php,laravel,js,html,css,git,github,java)
+
+</div>
+
+---
+
+<h2 align="center" class="heading-element" dir="auto">📊 GitHub Stats</h2>
+
+<div align="center">
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=claricenunes&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claricenunes&layout=compact&theme=tokyonight)
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claricenunes/claricenunes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/claricenunes/claricenunes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/claricenunes/claricenunes/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
