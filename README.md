@@ -2,7 +2,7 @@
 
 <h2 align="left">Seja bem vindo(a) ao meu GitHub !</h2>
 
-<h4 align="left">💻 Linguagens & Tecnologias</h4>
+<h4 align="left">Linguagens & Tecnologias</h4>
 
 
 <div style="display: inline_block"><br>
