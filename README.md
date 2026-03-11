@@ -7,15 +7,18 @@
 </div>
 
 <div align="center">
-  
-<h2 align="center" class="heading-element" dir="auto">Contact 💬</h2>
 
-<img align="center" width="26px" src="https://camo.githubusercontent.com/431ee030a15cd45e1e9d968d3731105084b2aa62e480772027ecb8bdd90a0eac/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63612f4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/claricesnunes" target="_blank">
+  <img align="center" width="26px" src="https://camo.githubusercontent.com/431ee030a15cd45e1e9d968d3731105084b2aa62e480772027ecb8bdd90a0eac/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63612f4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e67" style="max-width: 100%;">
+</a>
 
 
-<img align="center" width="26px" src="https://camo.githubusercontent.com/0d8777c0cb70d9c1653295e9219b0b466241f218d8f2e76b1c74bd2ea6ae4284/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f676d61696c" data-canonical-src="https://cdn.simpleicons.org/gmail" style="max-width: 100%;">
+<a href="mailto:euclaricenunes@gmail.com@gmail.com" target="_blank">
+  <img align="center" width="26px" src="https://cdn.simpleicons.org/gmail/D14836" style="max-width: 100%;">
+</a>
 
 </div>
+
 
 
 
