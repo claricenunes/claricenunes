@@ -8,6 +8,8 @@
 
 <div align="center">
 
+<h2 align="center" class="heading-element" dir="auto">Contact 💬</h2>
+
 <a href="https://www.linkedin.com/in/claricesnunes" target="_blank">
   <img align="center" width="26px" src="https://camo.githubusercontent.com/431ee030a15cd45e1e9d968d3731105084b2aa62e480772027ecb8bdd90a0eac/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63612f4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e67" style="max-width: 100%;">
 </a>
