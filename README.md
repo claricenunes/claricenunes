@@ -51,4 +51,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/claricenunes/claricenunes/output/pacman-contribution-graph.svg">
 </picture>
 
- <!--  https://github.com/VitorCostaVianna -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claricenunes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
