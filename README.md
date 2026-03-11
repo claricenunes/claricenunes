@@ -23,7 +23,7 @@
   
 **Software Engineering student** passionate about solving real-world problems through technology.
 
-💻 Currently, I am a Software Engineering **Intern at MIDR - the Ministry of Integration and Regional Development**, focusing on developing technological solutions using PHP and Laravel, with an emphasis on innovation and technical efficiency
+💻 Currently, I am a **Software Engineering Intern at MIDR - the Ministry of Integration and Regional Development**, focusing on developing technological solutions using *PHP and Laravel*, with an emphasis on innovation and technical efficiency
 
 </div>
 
