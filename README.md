@@ -41,7 +41,7 @@
 
 <div align="center">
   
-![My Skills](https://skillicons.dev/icons?i=python,php,laravel,js,html,css,git,github,java)
+![My Skills](https://skillicons.dev/icons?i=python,php,laravel,js,html,css,git,github)
 
 </div>
 
