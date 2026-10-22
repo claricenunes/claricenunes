@@ -31,7 +31,13 @@
   
 **Software Engineering student** passionate about solving real-world problems through technology.
 
-💻 Currently, I am a **Software Engineering Intern at MIDR - the Ministry of Integration and Regional Development**, focusing on developing technological solutions using *PHP and Laravel*, with an emphasis on innovation and technical efficiency - Brasília, Brazil
+Software Engineering student passionate about building technology-driven solutions, with interests in Data Engineering, Artificial Intelligence, and Software Developmen - Brasília, Brazil
+
+💻 SERPRO — Data & AI Intern, supporting data initiatives and the development of AI-powered solutions.
+
+🌿 VIVE Comunidade — Founder & Developer of a community platform built with React and Firebase, combining software development, data processing, automation, and social impact.
+
+🐟 Jubart Data — Involved in initiatives connecting technology, data intelligence, and business insights.
 
 </div>
 
